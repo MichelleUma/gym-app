@@ -1,0 +1,8 @@
+{
+  "name": "Gym App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c2a01697"
+}
